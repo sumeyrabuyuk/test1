@@ -2,3 +2,4 @@ iyi akşamlar
 iyi gecelr
 
 intellij ile commit yapıyorum
+remote masterdan guncelledim
