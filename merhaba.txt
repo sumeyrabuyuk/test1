@@ -1,2 +1,4 @@
 iyi akşamlar 
 iyi gecelr
+
+intellij ile commit yapıyorum
